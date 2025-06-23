@@ -10,3 +10,4 @@ openpyxl
 requests 
 scikit-learn
 imblearn
+kagglehub
