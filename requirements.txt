@@ -12,3 +12,4 @@ scikit-learn
 imblearn
 kagglehub
 statsmodels
+flask
